@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugins ml-update="aware" ml-stage="preload" ml-view="top">
+	<pyqgis_plugin name="Fire Simulator Advanced Analytics and Management" version="0.2.1" plugin_id="3510175697">
+		<description>"Simulate a forest fires under different weather and fire model scenarios"</description>
+		<about>"Simulate a forest fires under different weather and fire model scenarios"</about>
+		<version>0.5</version>
+		<qgis_minimum_version>3.1</qgis_minimum_version>
+		<qgis_maximum_version>6.66</qgis_maximum_version>
+		<homepage>"https://github.com/fdobad/fire2am-qgis-plugin"</homepage>
+		<file_name>fire2am.zip</file_name>
+		<icon>{{root_url + static_url_path+'/icon.png'}}</icon>
+		<author_name>"Fernando Badilla"</author_name>
+		<download_url>{{root_url + static_url_path+'/fire2am.zip'}}</download_url>
+		<uploaded_by>"Fernando Badilla"</uploaded_by>
+		<create_date>"2006-06-06"</create_date>
+		<update_date>"2016-06-06"</update_date>
+		<experimental>False</experimental>
+		<deprecated>False</deprecated>
+		<tracker>"https://github.com/fdobad/fire2am-qgis-plugin/issues"</tracker>
+		<repository>"https://github.com/fdobad/fire2am-qgis-plugin"</repository>
+		<tags>"forest fires, firebreaks, landscape management"</tags>
+		<external_dependencies/>
+		<server/>
+	</pyqgis_plugin>
+</plugins>
