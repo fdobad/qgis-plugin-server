@@ -32,3 +32,5 @@ Press CTRL+C to quit
 - complex: https://github.com/planetfederal/qgis-plugins-xml
 - simpler: https://gitlab.com/GIS-projects/phpQGISrepository 
 - sample: https://plugins.stuyts.xyz/
+- azure: https://learn.microsoft.com/en-us/azure/app-service/quickstart-python
+- flask: https://flask.palletsprojects.com/en/2.2.x/tutorial/deploy/
