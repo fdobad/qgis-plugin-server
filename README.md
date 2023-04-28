@@ -1,16 +1,34 @@
-# minimal QGIS-plugin flask-server
+# minimal QGIS-plugin 
+
+## github-pages server
+Enable a static page with the xml, like https://fdobad.github.io/qgis-plugin-server/plugins.xml  
+
+Put `plugins.xml` inside `github_page` folder, then configure a StaticHTML github page:  
+`Settings > Pages > Source 'GithubActions' > Static HTML 'Configure'`
+
+On editing the .github/workflows/static.yml, change to the path of the xml
+```
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v1
+        with:
+          # Upload entire repository
+          path: 'github_page'
+```
+
+
+## flask-server
 
 - Host a flask web server with the following [xml](templates/plugins.xml)
 - Put the plugin.zip in static folder
 
-## Local Dev
-### install
+### Local Dev
+#### install
 ```
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
 ```
-### run local
+#### run local
 ```
 source .venv/bin/activate
 flask run
