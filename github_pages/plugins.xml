@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugins ml-update="aware" ml-stage="preload" ml-view="top">
+	<pyqgis_plugin name="Rick roller name" version="0.2.1" plugin_id="1029384756">
+		<description>Rick roll description</description>
+		<about>This plugin will rick roll you</about>
+		<version>0.1</version>
+		<qgis_minimum_version>3.1</qgis_minimum_version>
+		<qgis_maximum_version>6.66</qgis_maximum_version>
+		<homepage>https://github.com/fdobad/qgis-minimal-plugin</homepage>
+		<file_name>rickroll.zip</file_name>
+		<icon>https://github.com/fdobad/qgis-minimal-plugin/blob/main/rickrollmodule/icon.png</icon>
+		<author_name>fdobad</author_name>
+		<download_url>https://github.com/fdobad/qgis-minimal-plugin/releases/download/v0.2/rickroll.zip</download_url>
+		<uploaded_by>fdobad</uploaded_by>
+		<create_date>"2006-06-06"</create_date>
+		<update_date>"2020-04-20"</update_date>
+		<experimental>False</experimental>
+		<deprecated>False</deprecated>
+		<tracker>https://github.com/fdobad/qgis-minimal-plugin/issues</tracker>
+		<repository>https://github.com/fdobad/qgis-minimal-plugin</repository>
+		<tags>"pluginbuilder, template, minimal, never gonna give you up"</tags>
+		<external_dependencies/>
+		<server/>
+	</pyqgis_plugin>
+</plugins>
