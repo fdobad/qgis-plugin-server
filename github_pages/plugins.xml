@@ -88,8 +88,8 @@
 		<external_dependencies/>
 		<server/>
 	</pyqgis_plugin>
-	<pyqgis_plugin name="Fire2am" version="0.9.2" plugin_id="1029384756">
-		<description>Fire2am cell2fire simulator advanced analytics and management</description>
+	<pyqgis_plugin name="Fire2am" version="0.9.3" plugin_id="4201029384756">
+		<description>Fire 2am=AAM=Advanced Analytics and Management, interfaces to Cell2Fire (Scott and Burgan flavor) forest fire simulator </description>
 		<about>We're no strangers to love
 You know the rules and so do I (do I)
 A full commitment's what I'm thinking of
@@ -102,14 +102,14 @@ Never gonna run around and desert you
 Never gonna make you cry
 Never gonna say goodbye
 Never gonna tell a lie and hurt you</about>
-		<version>0.9.2</version>
+		<version>0.9.3</version>
 		<qgis_minimum_version>3.1</qgis_minimum_version>
 		<qgis_maximum_version>6.66</qgis_maximum_version>
 		<homepage>https://fdobad.github.io/doctest</homepage>
-		<file_name>rickrollmodule.zip</file_name>
-		<icon>https://github.com/fdobad/qgis-minimal-plugin/blob/main/rickrollmodule/icon.png</icon>
+		<file_name>fire2am_v0.9.3.zip</file_name>
+		<icon>https://fdobad.github.io/qgis-plugin-server/fire2am_icon.png</icon>
 		<author_name>fdobad</author_name>
-		<download_url>https://fdobad.github.io/qgis-plugin-server/fire2am_v0.9.2.zip</download_url>
+		<download_url>https://fdobad.github.io/qgis-plugin-server/fire2am_v0.9.3.zip</download_url>
 		<uploaded_by>fdobad</uploaded_by>
 		<create_date>"2006-06-06"</create_date>
 		<update_date>"2020-04-20"</update_date>
