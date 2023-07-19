@@ -89,7 +89,7 @@
 		<server/>
 	</pyqgis_plugin>
 	<pyqgis_plugin name="Fire2am" version="0.9.2" plugin_id="1029384756">
-		<description>Fire2am cell2fire simulator advanced analytics & management</description>
+		<description>Fire2am cell2fire simulator advanced analytics and management</description>
 		<about>We're no strangers to love
 You know the rules and so do I (do I)
 A full commitment's what I'm thinking of
