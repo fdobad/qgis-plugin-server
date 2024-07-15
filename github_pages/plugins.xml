@@ -121,4 +121,26 @@ Never gonna tell a lie and hurt you</about>
 		<external_dependencies/>
 		<server/>
 	</pyqgis_plugin>
+	<pyqgis_plugin name="Fire2am" version="0.9.4" plugin_id="4201029384756">
+		<description></description>
+		<about></about>
+		<version>0.9.4</version>
+		<qgis_minimum_version>3.1</qgis_minimum_version>
+		<qgis_maximum_version>6.66</qgis_maximum_version>
+		<homepage>https://fdobad.github.io/doctest</homepage>
+		<file_name>fire2am</file_name>
+		<icon>https://fdobad.github.io/qgis-plugin-server/fire2am_icon.png</icon>
+		<author_name>fdobad</author_name>
+		<download_url>https://fdobad.github.io/qgis-plugin-server/fire2am_v0.9.3.zip</download_url>
+		<uploaded_by>fdobad</uploaded_by>
+		<create_date>"2006-06-06"</create_date>
+		<update_date>"2020-04-20"</update_date>
+		<experimental>False</experimental>
+		<deprecated>False</deprecated>
+		<tracker>https://github.com/fdobad/qgis-minimal-plugin/issues</tracker>
+		<repository>https://github.com/fdobad/qgis-minimal-plugin</repository>
+		<tags>"forest fires simulation, never gonna give you up"</tags>
+		<external_dependencies/>
+		<server/>
+	</pyqgis_plugin>
 </plugins>
