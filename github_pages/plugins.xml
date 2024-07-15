@@ -23,8 +23,8 @@
 		<server/>
 	</pyqgis_plugin>
 	<pyqgis_plugin name="blitoPa insta360 importer" version="1.1" plugin_id="1029384756">
-		<description>Import and preview Insta 360 files to a QGIS layer</description>
-		<about>Select a folder with IMG...insp or VID...insv insta360 files, view them on a vector layer</about>
+		<description></description>
+		<about></about>
 		<version>1.1</version>
 		<qgis_minimum_version>3.1</qgis_minimum_version>
 		<qgis_maximum_version>6.66</qgis_maximum_version>
